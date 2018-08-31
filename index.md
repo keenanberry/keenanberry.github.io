@@ -5,7 +5,7 @@ Investigations of computational methods and the development of software technolo
 
 <p>
 <h2>EDUCATION</h2>
-<h4>Master of Science student | Aug 2018 – Present</h4>
+<h3>Master of Science student | Aug 2018 – Present</h3>
 Bioinformatics & Computational Biology <br>
 Saint Louis University, St. Louis, MO. <br>
 
