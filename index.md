@@ -3,24 +3,24 @@
 </p>
 
 <p><h2>EDUCATION</h2></p>
-<p><h3>Master of Science student | Aug 2018 – Present</h3></p>
+<p><h4>Master of Science student | Aug 2018 – Present</h4></p>
 <p>Bioinformatics & Computational Biology <br>
-Saint Louis University, St. Louis, MO.</p>
+  <em>Saint Louis University, St. Louis, MO.</em></p>
 
-<p><h3>Doctor of Philosophy student | Sep 2017 – Apr 2018</h3></p>
+<p><h4>Doctor of Philosophy student | Sep 2017 – Apr 2018</h4></p>
 <p>Ecology, Evolution & Marine Biology Department <br>
-University of California - Santa Barbara, Goleta, CA. <br>
+  <em>University of California - Santa Barbara, Goleta, CA.</em> <br>
 &emsp;&bull; GPA: 3.88 </p>
 
-<h3>Bachelor of Science, Marine Science/Biology | May 2016</h3>
-University of Miami, Coral Gables, FL.<br>
+<h4>Bachelor of Science, Marine Science/Biology | May 2016</h4>
+<em>University of Miami, Coral Gables, FL.</em><br>
 &emsp;&bull; Minor, Chemistry <br>
 &emsp;•	GPA: 3.669
 </p>
 
 <p>
 <h2>RESEARCH EXPERIENCE</h2>
-<h3>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</h3>
+<h4>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</h4>
 Donald Danforth Plant Science Center <br>
 &emsp;&bull; Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs. <br>
 &emsp;&bull; Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza. <br>
