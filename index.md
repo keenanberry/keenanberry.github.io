@@ -4,7 +4,7 @@ KEENAN BERRY
 8342 Delcrest Dr., University City, MO 63124
 (314) 602 - 1977 • keenanberry22@gmail.com  
 
-EDUCATION
+<h1>EDUCATION</h1>
  
 
 Master of Science student							Aug 2018 – Present
