@@ -3,16 +3,16 @@
 </p>
 
 <p><h2>EDUCATION</h2></p>
-<p><h4>Master of Science student | Aug 2018 – Present</h4></p>
-<p>Bioinformatics & Computational Biology <br>
+<p><h4>Master of Science student | Aug 2018 – Present</h4>
+Bioinformatics & Computational Biology <br>
   <em>Saint Louis University, St. Louis, MO.</em></p>
 
-<p><h4>Doctor of Philosophy student | Sep 2017 – Apr 2018</h4></p>
-<p>Ecology, Evolution & Marine Biology Department <br>
+<p><h4>Doctor of Philosophy student | Sep 2017 – Apr 2018</h4>
+Ecology, Evolution & Marine Biology Department <br>
   <em>University of California - Santa Barbara, Goleta, CA.</em> <br>
 &emsp;&bull; GPA: 3.88 </p>
 
-<h4>Bachelor of Science, Marine Science/Biology | May 2016</h4>
+<p><h4>Bachelor of Science, Marine Science/Biology | May 2016</h4>
 <em>University of Miami, Coral Gables, FL.</em><br>
 &emsp;&bull; Minor, Chemistry <br>
 &emsp;•	GPA: 3.669
