@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -8,7 +7,7 @@ p.ex1 {
 </style>
 </head>
 
-</body>
+<body>
 <p><h2>RESEARCH INTERESTS</h2></p>
 
 <p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
