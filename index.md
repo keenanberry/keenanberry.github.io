@@ -7,12 +7,12 @@ Investigations of computational methods and the development of software technolo
 <h2>EDUCATION</h2>
 <h4>Master of Science student | Aug 2018 – Present</h4>
 Bioinformatics & Computational Biology <br>
-Saint Louis University, St. Louis, MO.
+Saint Louis University, St. Louis, MO. <br>
 
 <h4>Doctor of Philosophy student | Sep 2017 – Apr 2018</h4>
 Ecology, Evolution & Marine Biology Department <br>
 University of California - Santa Barbara, Goleta, CA. <br>
-&emsp;&bull; GPA: 3.88
+&emsp;&bull; GPA: 3.88 <br>
 
 <h4>Bachelor of Science, Marine Science/Biology | May 2016</h4>
 University of Miami, Coral Gables, FL.<br>
