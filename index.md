@@ -1,40 +1,40 @@
-<h1>RESEARCH INTERESTS</h1>
+<h2>RESEARCH INTERESTS</h2>
 
 Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
 
-<h1>EDUCATION</h1>
+<h2>EDUCATION</h2>
 
-Master of Science student							Aug 2018 – Present
+<h4>Master of Science student                     Aug 2018 – Present</h4>
 Bioinformatics & Computational Biology
 Saint Louis University, St. Louis, MO.
 
-Doctor of Philosophy student						Sep 2017 – Apr 2018
+<h4>Doctor of Philosophy student				          Sep 2017 – Apr 2018</h4>
 Ecology, Evolution & Marine Biology Department
 University of California - Santa Barbara, Goleta, CA.
-•	GPA: 3.88
+  •	GPA: 3.88
 
-Bachelor of Science, Marine Science/Biology				May 2016
+<h4>Bachelor of Science, Marine Science/Biology		May 2016</h4>
 University of Miami, Coral Gables, FL.
-•	Minor, Chemistry
-•	GPA: 3.669
+  •	Minor, Chemistry
+  •	GPA: 3.669
 
-<h>RESEARCH EXPERIENCE</h>
+<h2>RESEARCH EXPERIENCE</h2>
 
-Meyers (“Small RNA”) Laboratory						Apr 2018 – present
+<h4>Meyers (“Small RNA”) Laboratory						      Apr 2018 – present</h4>
 Donald Danforth Plant Science Center
-•	Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs.
-•	Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza.
-•	Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained from the 3000 Rice Genomes (3kRG) Project. 
+  •	Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs.
+  •	Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza.
+  •	Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained       from the 3000 Rice Genomes (3kRG) Project. 
 
-Proulx (“Theoretical Evolution”) Laboratory				Sep 2017 – Apr 2018
+<h4>Proulx (“Theoretical Evolution”) Laboratory	    Sep 2017 – Apr 2018</h4>
 EEMB Department, University of California at Santa Barbara
-•	Focused on developing theoretical models to understand fitness and selection processes involved in evolution.
-•	Assisted with microbiology procedures involved in the experimental evolution studies of the yeast species Saccharomyces cerevisiae.
+  •	Focused on developing theoretical models to understand fitness and selection processes involved in evolution.
+  •	Assisted with microbiology procedures involved in the experimental evolution studies of the yeast species Saccharomyces cerevisiae.
 
 Marine Genomics Laboratory							Jan 2016 – Aug 2016
 Department of Marine Biology and Ecology, University of Miami
-•	Collaborated with Atlantic Oceanographic & Meteorological Laboratory of NOAA to investigate the roll of salinity fluctuations in causing selection by analyzing the genetic variation and connectivity among populations of rainwater killifish (Lucania parva) in Florida’s Biscayne Bay; evidence from investigations has the potential to justify the Comprehensive Everglades Restoration Plan, a government initiative spending $10.5 billion over 35 years to restore the Everglades’ natural drainage system.
-•	Investigated connectivity of over-fished populations of parrotfish species in the Bahama islands by determining the potential identity of larval DNA in the parrotfish genus Sparisoma through sequence alignment comparisons and phylogenetic analyses; research findings have the potential to enhance fishing regulations and management strategies in the Bahama islands.
+  •	Collaborated with Atlantic Oceanographic & Meteorological Laboratory of NOAA to investigate the roll of salinity fluctuations in           causing selection by analyzing the genetic variation and connectivity among populations of rainwater killifish (Lucania parva) in         Florida’s Biscayne Bay; evidence from investigations has the potential to justify the Comprehensive Everglades Restoration Plan, a         government initiative spending $10.5 billion over 35 years to restore the Everglades’ natural drainage system.
+  •	Investigated connectivity of over-fished populations of parrotfish species in the Bahama islands by determining the potential identity of larval DNA in the parrotfish genus Sparisoma through sequence alignment comparisons and phylogenetic analyses; research findings have the potential to enhance fishing regulations and management strategies in the Bahama islands.
 
 Comparative Sedimentology Laboratory 					Sep 2015 – Jul 2016
 Department of Geological Sciences, University of Miami
