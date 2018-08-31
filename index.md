@@ -5,6 +5,24 @@
 
 <p><h2>EDUCATION</h2></p>
 
+<p>
+<div id="left" style="width:300px; height:100px; float:left; margin:5px 40px 0;">
+<h4 id="companyname">Master of Science student | Aug 2018 – Present</h4>
+</div>
+Bioinformatics & Computational Biology <br>
+  <em>Saint Louis University, St. Louis, MO.</em>
+  </p>
+
+<p>
+<div id="left" style="width:300px; height:100px; float:left; margin:5px 40px 0;">
+<h4 id="companyname">Doctor of Philosophy student | Sep 2017 – Apr 2018</h4>
+</div>
+Ecology, Evolution & Marine Biology Department <br>
+  <em>University of California - Santa Barbara, Goleta, CA.</em> <br>
+&emsp;&bull; GPA: 3.88 </p>
+
+
+
 <p><h4>Master of Science student | Aug 2018 – Present</h4>
 Bioinformatics & Computational Biology <br>
   <em>Saint Louis University, St. Louis, MO.</em></p>
