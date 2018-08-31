@@ -1,13 +1,4 @@
 <html>
-<head>
-<style>
-p.ex1 {
-    padding: 10px 10px 10px;
-}
-</style>
-</head>
-
-<body>
 <p><h2>RESEARCH INTERESTS</h2></p>
 
 <p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
@@ -161,6 +152,5 @@ Patrick Doherty, founder and CEO
 Saturday Capital, St. Louis, MO.
 (636) 489 – 8522, Patrick.Doherty@SaturdayCapital.com 
 
-</body> 
 </html>
 
