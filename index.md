@@ -9,12 +9,12 @@ Investigations of computational methods and the development of software technolo
 Bioinformatics & Computational Biology <br>
 Saint Louis University, St. Louis, MO. <br>
 
-<h4>Doctor of Philosophy student | Sep 2017 – Apr 2018</h4>
+<h3>Doctor of Philosophy student | Sep 2017 – Apr 2018</h3>
 Ecology, Evolution & Marine Biology Department <br>
 University of California - Santa Barbara, Goleta, CA. <br>
 &emsp;&bull; GPA: 3.88 <br>
 
-<h4>Bachelor of Science, Marine Science/Biology | May 2016</h4>
+<h3>Bachelor of Science, Marine Science/Biology | May 2016</h3>
 University of Miami, Coral Gables, FL.<br>
 &emsp;&bull; Minor, Chemistry <br>
 &emsp;•	GPA: 3.669
@@ -22,9 +22,8 @@ University of Miami, Coral Gables, FL.<br>
 
 <p>
 <h2>RESEARCH EXPERIENCE</h2>
-<br>
-<h4>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</h4><br>
-Donald Danforth Plant Science Center<br>
+<h3>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</h3>
+Donald Danforth Plant Science Center <br>
 &emsp;&bull; Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs. <br>
 &emsp;&bull; Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza. <br>
 &emsp;&bull; Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained from the 3000 Rice Genomes (3kRG) Project. <br>
