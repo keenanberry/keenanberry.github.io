@@ -1,18 +1,16 @@
-<p>
-<h2>RESEARCH INTERESTS</h2>
-Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
+<p><h2>RESEARCH INTERESTS</h2></p>
+<p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
 </p>
 
-<p>
-<h2>EDUCATION</h2>
-<h3>Master of Science student | Aug 2018 – Present</h3>
-Bioinformatics & Computational Biology <br>
-Saint Louis University, St. Louis, MO. <br>
+<p><h2>EDUCATION</h2></p>
+<p><h3>Master of Science student | Aug 2018 – Present</h3></p>
+<p>Bioinformatics & Computational Biology <br>
+Saint Louis University, St. Louis, MO.</p>
 
-<h3>Doctor of Philosophy student | Sep 2017 – Apr 2018</h3>
-Ecology, Evolution & Marine Biology Department <br>
+<p><h3>Doctor of Philosophy student | Sep 2017 – Apr 2018</h3></p>
+<p>Ecology, Evolution & Marine Biology Department <br>
 University of California - Santa Barbara, Goleta, CA. <br>
-&emsp;&bull; GPA: 3.88 <br>
+&emsp;&bull; GPA: 3.88 </p>
 
 <h3>Bachelor of Science, Marine Science/Biology | May 2016</h3>
 University of Miami, Coral Gables, FL.<br>
