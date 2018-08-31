@@ -1,11 +1,8 @@
-KEENAN BERRY
- 
+<h1>RESEARCH INTERESTS</h1>
 
-8342 Delcrest Dr., University City, MO 63124
-(314) 602 - 1977 • keenanberry22@gmail.com  
+Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
 
 <h1>EDUCATION</h1>
- 
 
 Master of Science student							Aug 2018 – Present
 Bioinformatics & Computational Biology
@@ -21,11 +18,7 @@ University of Miami, Coral Gables, FL.
 •	Minor, Chemistry
 •	GPA: 3.669
 
-RESEARCH INTERESTS
-
-Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
-
-RESEARCH EXPERIENCE
+<h>RESEARCH EXPERIENCE</h>
 
 Meyers (“Small RNA”) Laboratory						Apr 2018 – present
 Donald Danforth Plant Science Center
