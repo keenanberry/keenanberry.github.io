@@ -49,9 +49,9 @@ Ecology, Evolution & Marine Biology Department <br>
 
 <p><h2>RELEVANT PROJECTS</h2></p>
 
-<p style="margin-bottom:0;"><b>Analysis of microRNA Variation in Arabidopsis thaliana | Summer 2018 </b><br>
+<p style="margin-bottom:0;"><b>Analysis of microRNA Variation in <i>Arabidopsis thaliana</i> | Summer 2018 </b><br>
   <em>Meyers Lab, Donald Danforth Plant Science Center</em></p>
-  <ul style="list-style-type:disc;margin-top:0;"><li>Utilized gene sequence variation data from the 1001 Genomes Project and miRNA data from miRBase to identify and visualize intraspecific miRNA variation in 1135 accessions of Arabidopsis thaliana. </li> 
+  <ul style="list-style-type:disc;margin-top:0;"><li>Utilized gene sequence variation data from the 1001 Genomes Project and miRNA data from miRBase to identify and visualize intraspecific miRNA variation in 1135 accessions of <i>Arabidopsis thaliana</i>. </li> 
 <li> Visualized single nucleotide polymorphisms (SNPs) along miRNA sequences with a mutation distribution graphics tool in trackViewer, a Bioconductor/R package. </li>
 <li>Generated alternate fasta sequences from the reference miRNA fasta and sequence variation data to analyze the secondary structures of the miRNA molecules and to investigate the alignment of miRNA molecules to their target genes. </li>
 <li>Used the ViennaRNA package to calculate the minimum free energy (MFE) of pre-miRNA secondary structures; the results indicated that the accumulation of SNPs increases the MFE value, lowering the stability of the molecule. </li>
