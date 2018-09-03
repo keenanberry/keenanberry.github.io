@@ -57,11 +57,11 @@ Ecology, Evolution & Marine Biology Department <br>
 <li>Used the ViennaRNA package to calculate the minimum free energy (MFE) of pre-miRNA secondary structures; the results indicated that the accumulation of SNPs increases the MFE value, lowering the stability of the molecule. </li>
 <li>Used gene sequence variation data to show that at least one target gene sequence lacks a complementary SNP at the miRNA cleavage recognition site, potentially inhibiting repression of target gene (functional genomics study is needed to confirm this). </li></ul>
 
-<p style="margin-bottom:0;"><b>Mining HIV-1/Human Protein Interaction Networks for –Quasi-Bicliques Reveals Potential Viral Infection Pathways | Fall 2017 </b><br>
+<p style="margin-bottom:0;"><b>Mining HIV-1/Human Protein Interaction Networks for &gamma;-Quasi-Bicliques Reveals Potential Viral Infection Pathways | Fall 2017 </b><br>
   <em>CMPSC 292F, UCSB</em></p>
   <ul style="list-style-type:disc;margin-top:0;">
-  <li>Implemented an agglomerative hierarchical clustering algorithm on a bipartite network of HIV-1 and human proteins; the network was mined for -quasi-bicliques, which isolated the human proteins most likely to interact with specific HIV-1 proteins during viral infection.</li> 
-  <li>Utilized the same agglomerative clustering and -quasi-clique and biclique mining on two additional networks: a human protein-protein interaction (PPI) network and an undirected bipartite network of human proteins and disease states.</li>
+  <li>Implemented an agglomerative hierarchical clustering algorithm on a bipartite network of HIV-1 and human proteins; the network was mined for &gamma;-quasi-bicliques, which isolated the human proteins most likely to interact with specific HIV-1 proteins during viral infection.</li> 
+  <li>Utilized the same agglomerative clustering and &gamma;-quasi-clique and biclique mining on two additional networks: a human protein-protein interaction (PPI) network and an undirected bipartite network of human proteins and disease states.</li>
   <li>Targeted gateway proteins and potential infection pathways in the human PPI network via HIV-human interaction clusters indicative of strong protein complexes.</li> 
   <li>Performed bipartite network analysis to identify links between these novel proteins and various disease states.</li>
   <li>The project provided valuable information about cellular mechanisms involved in the HIV infection process and generated information potentially useful in pharmaceutical development.</li></ul>
