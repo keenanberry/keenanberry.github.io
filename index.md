@@ -76,6 +76,12 @@ Ecology, Evolution & Marine Biology Department <br>
 
 <p><h2>HONORS AND AWARDS</h2></p>
 
+<p style ="margin-bottom:0;"><b>Saint Louis University Graduate Assistantship (GA) | Summer 2018 – Spring 2020</b></p>
+<ul style="list-style-type:disc;margin-top:0;">
+  <li>Awarded full tuition coverage and a $22,000 annual stipend.</li>
+  <li>Required to complete 20 hours of research per week with faculty associated with the Bioinformatics & Computational Biology M.S. program.
+  </ul>
+  
 <p style ="margin-bottom:0;"><b>IGERT Traineeship	| Fall 2017 – Spring 2018</b></p>
 <ul style="list-style-type:disc;margin-top:0;">
   <li>An interdisciplinary graduate program in Network Science and Big Data funded by the National Science Foundation and the University of California at Santa Barbara which provides recipients full tuition coverage and a $30,000 annual stipend.</li>
