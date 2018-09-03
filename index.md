@@ -24,8 +24,15 @@ Ecology, Evolution & Marine Biology Department <br>
 <p><h2>RESEARCH EXPERIENCE</h2></p>
 
 <p><b>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</b><br>
-Donald Danforth Plant Science Center </p>
-<p style ="margin-left:40px"> &emsp;&bull; Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs. <br>
+Donald Danforth Plant Science Center
+<ul style="list-style-type:disc">
+  <li>Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs.</li>
+  <li>Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza.</li>
+  <li>Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained from the 3000 Rice Genomes (3kRG) Project.</li>
+</ul></p>
+
+
+&emsp;&bull; Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs. <br>
 &emsp;&bull; Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza. <br>
 &emsp;&bull; Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained from the 3000 Rice Genomes (3kRG) Project. </p>
 
