@@ -14,37 +14,37 @@ Bioinformatics & Computational Biology <br>
 <p style="margin-bottom:0"><b>Doctor of Philosophy student | Sep 2017 – Apr 2018</b><br>
 Ecology, Evolution & Marine Biology Department <br>
   <em>University of California - Santa Barbara, Goleta, CA.</em> </p> 
-  <ul style="list-style-type:disc;margin-top:0;">
+  <ul style="list-style-type:disc;margin-top:0 px;">
   <li> GPA: 3.88 </li></ul>
 
 <p><b>Bachelor of Science, Marine Science/Biology | May 2016</b><br>
-  <em>University of Miami, Coral Gables, FL.</em></p> <ul style="list-style-type:disc;margin-top:0;">
+  <em>University of Miami, Coral Gables, FL.</em></p> <ul style="list-style-type:disc;margin-top:0 px;">
   <li> Minor, Chemistry</li>
   <li> GPA: 3.669</li></ul>
 
 <p><h2>RESEARCH EXPERIENCE</h2></p>
 
 <p><b>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</b><br>
-Donald Danforth Plant Science Center </p> <ul style="list-style-type:disc;margin-top:0;">
+Donald Danforth Plant Science Center </p> <ul style="list-style-type:disc;margin-top:0 px;">
   <li>Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs.</li>
   <li>Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza.</li>
   <li>Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained from the 3000 Rice Genomes (3kRG) Project.</li></ul>
 
 <p><b>Proulx (“Theoretical Evolution”) Laboratory | Sep 2017 – Apr 2018</b><br>
 EEMB Department, University of California at Santa Barbara </p>
-<ul style="list-style-type:disc;margin-top:0;">
+<ul style="list-style-type:disc;margin-top:0 px;">
   <li>Focused on developing theoretical models to understand fitness and selection processes involved in evolution.</li>
   <li>Assisted with microbiology procedures involved in the experimental evolution studies of the yeast species Saccharomyces cerevisiae.</li></ul>
 
 <p><b>Marine Genomics Laboratory | Jan 2016 – Aug 2016</b><br>
 Department of Marine Biology and Ecology, University of Miami </p>
-<ul style="list-style-type:disc;margin-top:0;">
+<ul style="list-style-type:disc;margin-top:0 px;">
   <li> Collaborated with Atlantic Oceanographic & Meteorological Laboratory of NOAA to investigate the roll of salinity fluctuations in causing selection by analyzing the genetic variation and connectivity among populations of rainwater killifish (Lucania parva) in Florida’s Biscayne Bay; evidence from investigations has the potential to justify the Comprehensive Everglades Restoration Plan, a government initiative spending $10.5 billion over 35 years to restore the Everglades’ natural drainage system. </li>
 <li> Investigated connectivity of over-fished populations of parrotfish species in the Bahama islands by determining the potential identity of larval DNA in the parrotfish genus Sparisoma through sequence alignment comparisons and phylogenetic analyses; research findings have the potential to enhance fishing regulations and management strategies in the Bahama islands. </li></ul>
 
 <p><b>Comparative Sedimentology Laboratory | Sep 2015 – Jul 2016 </b> <br>
 Department of Geological Sciences, University of Miami </p>
-<ul style="list-style-type:disc;margin-top:0;"><li> Characterized the reef communities found in present-day Dominican Republic and used GIS software to create virtual models to understand the changes that were occurring on Caribbean reef systems during the Plio-Pleistocene faunal turnover event. </li>
+<ul style="list-style-type:disc;margin-top:0 px;"><li> Characterized the reef communities found in present-day Dominican Republic and used GIS software to create virtual models to understand the changes that were occurring on Caribbean reef systems during the Plio-Pleistocene faunal turnover event. </li>
 <li> Investigated the diversity and classification of Plio-Pleistocene coral reef communities to assist senior lab members in defining the evolutionary and ecological transition of Caribbean reef assemblages and in better understanding the causes of faunal turnover in consideration of regional climatic and oceanographic events.</li></ul>
 
 <p><h2>RELEVANT PROJECTS</h2></p>
