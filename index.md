@@ -11,9 +11,10 @@
 Bioinformatics & Computational Biology <br>
   <em>Saint Louis University, St. Louis, MO.</em></p>
 
-<p><b>Doctor of Philosophy student | Sep 2017 – Apr 2018</b><br>
+<p style="margin-bottom:0"><b>Doctor of Philosophy student | Sep 2017 – Apr 2018</b><br>
 Ecology, Evolution & Marine Biology Department <br>
-  <em>University of California - Santa Barbara, Goleta, CA.</em> </p> <ul style="list-style-type:disc;margin-top:-10;">
+  <em>University of California - Santa Barbara, Goleta, CA.</em> </p> 
+  <ul style="list-style-type:disc;margin-top:0;">
   <li> GPA: 3.88 </li></ul>
 
 <p><b>Bachelor of Science, Marine Science/Biology | May 2016</b><br>
