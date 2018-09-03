@@ -1,8 +1,9 @@
 <html>
-  
+<head>  
 <style>
 ul {margin-top:0;}
 </style>
+  </head>
   
 <p><h2>RESEARCH INTERESTS</h2></p>
 
