@@ -97,7 +97,7 @@ Ecology, Evolution & Marine Biology Department <br>
 <p><h2>PROFESSIONAL EXPERIENCE</h2></p>
 
 <p style ="margin-bottom:0;"><b>Bioinformatics Intern | Apr 2018 – Present</b><br>
-  <em>Prepworks E-Learning Systems</em></p>
+  <em>Donald Danforth Plant Science Center</em></p>
 <ul style="list-style-type:disc;margin-top:0;">
   <li>Participated in paid summer internship in Dr. Blake Meyers lab. The lab focuses on genome-scale studies of small RNAs and their targets in plants.</li>
   <li>Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis (see "Research Experience" and "Relevant Projects" sections). </li> </ul>	
