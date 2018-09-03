@@ -1,7 +1,9 @@
 <html>
 <head>  
 <style>
-ul {margin-top:0;}
+p + ul {
+    margin-top: -10px;
+}
 </style>
   </head>
   
