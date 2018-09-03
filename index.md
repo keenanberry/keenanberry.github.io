@@ -136,29 +136,29 @@ Latin: Proficient</p>
 
 <p><h2>REFERENCES</h2></p>
 
-<p>Blake Meyers, Ph.D., Principal Investigator<br>
+<p><b>Blake Meyers, Ph.D., Principal Investigator</b><br>
 Small RNA Laboratory<br>
 Donald Danforth Plant Science Center<br>
 Division of Plant Sciences, University of Missouri – Columbia<br>
 (314) 587 - 1422, BMeyers@danforthcenter.org</p>
 
-<p>Douglas L. Crawford, Ph.D., Professor<br>
+<p><b>Douglas L. Crawford, Ph.D., Professor</b><br>
 Marine Genomics Laboratory<br>
 Department of Marine Biology and Ecology<br>
 University of Miami, Rosenstiel School of Marine and Atmospheric Science<br>
 (305) 421 - 4121, dcrawford@rsmas.miami.edu </p>
 
-<p>Marjorie F. Oleksiak, Ph.D., Associate Professor<br>
+<p><b>Marjorie F. Oleksiak, Ph.D., Associate Professor</b><br>
 Marine Genomics Laboratory<br>
 Department of Marine Biology and Ecology<br>
 University of Miami, Rosenstiel School of Marine and Atmospheric Science<br>
 (305) 421 - 4341, moleksiak@rsmas.miami.edu</p>
 
-<p>Michael Penney, Global Head of Technology<br>
+<p><b>Michael Penney, Global Head of Technology</b><br>
 Coaches Training Institute (CTI), San Francisco Bay Area<br>
 (941) 374 – 0520, michaelbtw@gmail.com </p>
 
-<p>Patrick Doherty, founder and CEO <br>
+<p><b>Patrick Doherty, founder and CEO</b><br>
 Saturday Capital, St. Louis, MO.<br>
 (636) 489 – 8522, Patrick.Doherty@SaturdayCapital.com </p>
 
