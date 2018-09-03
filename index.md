@@ -14,13 +14,14 @@ Bioinformatics & Computational Biology <br>
 <p><b>Doctor of Philosophy student | Sep 2017 – Apr 2018</b><br>
 Ecology, Evolution & Marine Biology Department <br>
   <em>University of California - Santa Barbara, Goleta, CA.</em> </p>
-<ul style="list-style-type:disc;margin-top:0;"><li> GPA: 3.88 </li></ul>
+  <ul style="list-style-type:disc;margin-top:0;">
+  <li> GPA: 3.88 </li></ul>
 
 <p><b>Bachelor of Science, Marine Science/Biology | May 2016</b><br>
-<em>University of Miami, Coral Gables, FL.</em></p>
-<ul style="list-style-type:disc;margin-top:0;"><li> Minor, Chemistry</li>
-<li> GPA: 3.669
-</li></ul>
+  <em>University of Miami, Coral Gables, FL.</em></p>
+  <ul style="list-style-type:disc;margin-top:0;">
+  <li> Minor, Chemistry</li>
+  <li> GPA: 3.669</li></ul>
 
 <p><h2>RESEARCH EXPERIENCE</h2></p>
 
