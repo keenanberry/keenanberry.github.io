@@ -13,21 +13,18 @@ Bioinformatics & Computational Biology <br>
 
 <p><b>Doctor of Philosophy student | Sep 2017 – Apr 2018</b><br>
 Ecology, Evolution & Marine Biology Department <br>
-  <em>University of California - Santa Barbara, Goleta, CA.</em> </p>
-  <ul style="list-style-type:disc;margin-top:-10;">
+  <em>University of California - Santa Barbara, Goleta, CA.</em> </p> <ul style="list-style-type:disc;margin-top:-10;">
   <li> GPA: 3.88 </li></ul>
 
 <p><b>Bachelor of Science, Marine Science/Biology | May 2016</b><br>
-  <em>University of Miami, Coral Gables, FL.</em></p>
-  <ul style="list-style-type:disc;margin-top:0;">
+  <em>University of Miami, Coral Gables, FL.</em></p> <ul style="list-style-type:disc;margin-top:0;">
   <li> Minor, Chemistry</li>
   <li> GPA: 3.669</li></ul>
 
 <p><h2>RESEARCH EXPERIENCE</h2></p>
 
 <p><b>Meyers (“Small RNA”) Laboratory | Apr 2018 – present</b><br>
-Donald Danforth Plant Science Center </p> 
-<ul style="list-style-type:disc;margin-top:0;">
+Donald Danforth Plant Science Center </p> <ul style="list-style-type:disc;margin-top:0;">
   <li>Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis thaliana; research investigations found that the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs.</li>
   <li>Initiated transposable element (TE) detection and analysis in 84 lines of Spirodela polyrhiza.</li>
   <li>Plan to utilize bioinformatics pipeline created for miRNA variation analysis in A. thaliana for a similar analysis on data obtained from the 3000 Rice Genomes (3kRG) Project.</li></ul>
