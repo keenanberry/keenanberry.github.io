@@ -11,7 +11,7 @@
 Bioinformatics & Computational Biology <br>
   <em>Saint Louis University, St. Louis, MO.</em></p>
   <ul style="list-style-type:disc;margin-top:0;"><li> GPA: 4.0 </li>
-  <li> Relevant courses: Bioinformatics I & II, Genomics, Data Structures in C++, Machine Learning, High Performance Computing, Unix Tools</li></ul>
+  </ul>
 
 <p style="margin-bottom:0;"><b>Doctor of Philosophy student | Sep 2017 – Apr 2018</b><br>
 Ecology, Evolution & Marine Biology Department <br>
