@@ -61,9 +61,9 @@ Ecology, Evolution & Marine Biology Department <br>
   
 <p style ="margin-bottom:0;"><b>IGERT Traineeship	| Fall 2017 – Spring 2018</b></p>
 <ul style="list-style-type:disc;margin-top:0;">
-  <li>An interdisciplinary graduate program in Network Science and Big Data funded by the National Science Foundation and the University of California at Santa Barbara which provides recipients full tuition coverage and a $30,000 annual stipend.</li>
-  <li>Requires participating graduate students to take Network Science courses offered in the UCSB Computer Science department.</li>
-  <li>Offers graduate students opportunities to conduct interdisciplinary research through laboratory rotations in seven participating departments: Computer Science (CS), Communication, Ecology, Evolution & Marine Biology (EEMB), Electrical & Computer Engineering (ECE), Geography, Mechanical Engineering (ME), and Sociology.</li></ul>
+  <li>An interdisciplinary graduate program in Network Science and Big Data funded by the National Science Foundation and the University of California at Santa Barbara which provided recipients full tuition coverage and a $30,000 annual stipend.</li>
+  <li>Required participating graduate students to take Network Science courses offered in the UCSB Computer Science department.</li>
+  <li>Offered graduate students opportunities to conduct interdisciplinary research through laboratory rotations in seven participating departments: Computer Science (CS), Communication, Ecology, Evolution & Marine Biology (EEMB), Electrical & Computer Engineering (ECE), Geography, Mechanical Engineering (ME), and Sociology.</li></ul>
 
 <p style ="margin-bottom:0;"><b>University/President’s Scholarship | 2012 – 2016</b></p>
 <ul style="list-style-type:disc;margin-top:0;">
