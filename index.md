@@ -2,7 +2,7 @@
   
 <p><h2>RESEARCH INTERESTS</h2></p>
 
-<p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare industry.
+<p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare and food/nutrition industries.
 </p>
 
 <p><h2>EDUCATION</h2></p>
@@ -18,19 +18,23 @@ Bioinformatics & Computational Biology <br>
 Ecology, Evolution & Marine Biology Department <br>
   <em>University of California - Santa Barbara, Goleta, CA.</em> </p> 
   <ul style="list-style-type:disc;margin-top:0;">
-  <li> GPA: 3.88 </li></ul>
+  <li> GPA: 3.88 </li>
+  <li> Relevant courses: Network Science I & II, Quantitative Methods in Biology </li>
+  <li> Transferred to St. Louis University to pursue industry-focused computational studies.</li></ul>
 
 <p style="margin-bottom:0;"><b>Bachelor of Science, Marine Science/Biology | May 2016</b><br>
   <em>University of Miami, Coral Gables, FL.</em></p> <ul style="list-style-type:disc;margin-top:0;">
   <li> Minor, Chemistry</li>
-  <li> GPA: 3.669</li></ul>
+  <li> GPA: 3.669</li>
+  <li> Relevant courses: Object-oriented Programming in Java </li></ul>
 
 <p><h2>RESEARCH EXPERIENCE</h2></p>
 
 <p style="margin-bottom:0;"><b>BioHPC Laboratory | Aug 2018 – present</b><br>
   <em>Computer Science Department, St. Louis University</em> </p> <ul style="list-style-type:disc;margin-top:0;">
-  <li>Currently working with Dr. Tae-Hyuk Ahn (Computer Science) and Dr. Zhenguo Lin (Biology) to develop an R software package that can more effectively analyze CAGE-sequencing data; the goal of the development is to provide better transcription start site profiles from CAGE-seq datasets.</li>
-  <li>Responsible for writing new data analysis functions (e.g. peak calling, clustering, etc.) and for editing and adapting existing functions written by Dr. Lin's graduate student.</li></ul>
+  <li>Currently working with Dr. Tae-Hyuk Ahn (Computer Science) and Dr. Zhenguo Lin (Biology) to develop an R software package to improve the analysis of CAGE-sequencing data; the goal of the development is to provide better transcription start site profiles from CAGE-seq datasets.</li>
+  <li>Responsible for writing new data analysis functions (e.g. peak calling, clustering, etc.) and for editing and adapting existing functions written by Dr. Lin's graduate student.</li>
+  <li>Initiating new app development on the DNAnexus Mosaic cloud platform for metagenomic strain profiling and detection.</li></ul>
 
 <p style="margin-bottom:0;"><b>Proulx Laboratory | Sep 2017 – Apr 2018</b><br>
   <em>EEMB Department, University of California at Santa Barbara</em> </p>
@@ -81,7 +85,7 @@ Ecology, Evolution & Marine Biology Department <br>
   <em>Meyers Laboratory, Donald Danforth Plant Science Center</em></p>
 <ul style="list-style-type:disc;margin-top:0;">
   <li>Participated in a paid summer internship in Dr. Blake Meyers lab; the lab focuses on genome-scale studies of small RNAs and their targets in plants.</li>
-  <li>Analyzed sequence variation data from the 1001 Genomes Project to identify and visualize intraspecific microRNA variation in 1135 accessions of Arabidopsis; my research investigations found the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs in this plant species. </li> 
+  <li>Analyzed sequence variation data from the 1001 Genomes Project to identify intraspecific microRNA variation and to investigate its effects on miRNA secondary structure and target-site complementarity in 1135 accessions of Arabidopsis; my research investigations found the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs in this plant species. </li> 
   <li>Developed bioinformatics pipeline to be used for similar miRNA analyses; specific plans to utilize pipeline to analyze data from the 3000 Rice Genomes Project.</li></ul>	
 
 <p style ="margin-bottom:0;"><b>Web Content Engineer | May 2016 – Oct 2017</b><br>
@@ -109,9 +113,9 @@ Ecology, Evolution & Marine Biology Department <br>
 <p><h2>RELEVANT SKILLS</h2></p>
 
 <ul style="list-style-type:disc;">
-<li>Lab work: Buffer synthesis, restriction enzyme digest, polymerase chain reaction (PCR), genomic DNA isolation, RNA isolation, gel electrophoresis (DNA, RNA), spectrophotometry, DNA barcoding, genotyping by sequencing (GBS), restriction site associated DNA sequencing (RAD-seq), single colony isolation (streaking), optical microscopy (inverted compound microscope)</li>
+<li>Programming/markup language: Python, R, Unix Shell, C++ (proficient), Java (proficient), HTML/CSS, LaTeX</li>
 <li>Software: GenomeTools, bedtools, ViennaRNA Package, Trimmomatic, FastQC, Burrows-Wheeler Aligner (BWA), Anaconda, RStudio, Git, BLAST, Gephi, MEGA, Tassel, Arlequin, PGDSpider, Structure, PAUP, ArcGIS, Adobe Photoshop, Adobe Illustrator, Microsoft Office, Salesforce CRM</li>
-  <li>Programming/markup language: Python, R, Unix Shell, C++ (proficient), Java (proficient), HTML/CSS, LaTeX</li></ul>
+<li>Lab work: Buffer synthesis, restriction enzyme digest, polymerase chain reaction (PCR), genomic DNA isolation, RNA isolation, gel electrophoresis (DNA, RNA), spectrophotometry, DNA barcoding, genotyping by sequencing (GBS), restriction site associated DNA sequencing (RAD-seq), single colony isolation (streaking), optical microscopy (inverted compound microscope)</li></ul>
 
 <p><h2>LANGUAGES</h2></p>
 
