@@ -113,9 +113,9 @@ Ecology, Evolution & Marine Biology Department <br>
 <p><h2>RELEVANT SKILLS</h2></p>
 
 <ul style="list-style-type:disc;">
-<li>Programming/markup language: Python, R, Unix Shell, C++ (proficient), Java (proficient), HTML/CSS, LaTeX</li>
-<li>Software: GenomeTools, bedtools, ViennaRNA Package, Trimmomatic, FastQC, Burrows-Wheeler Aligner (BWA), Anaconda, RStudio, Git, BLAST, Gephi, MEGA, Tassel, Arlequin, PGDSpider, Structure, PAUP, ArcGIS, Adobe Photoshop, Adobe Illustrator, Microsoft Office, Salesforce CRM</li>
-<li>Lab work: Buffer synthesis, restriction enzyme digest, polymerase chain reaction (PCR), genomic DNA isolation, RNA isolation, gel electrophoresis (DNA, RNA), spectrophotometry, DNA barcoding, genotyping by sequencing (GBS), restriction site associated DNA sequencing (RAD-seq), single colony isolation (streaking), optical microscopy (inverted compound microscope)</li></ul>
+  <li><b>Programming/markup language:</b> Python, R, Unix Shell, C++ (proficient), Java (proficient), HTML/CSS, LaTeX</li>
+  <li><b>Software:</b> GenomeTools, bedtools, ViennaRNA Package, Trimmomatic, FastQC, Burrows-Wheeler Aligner (BWA), Anaconda, RStudio, BLAST, Gephi, MEGA, Tassel, Arlequin, PGDSpider, Structure, PAUP, ArcGIS, Adobe Photoshop, Adobe Illustrator, Microsoft Office, Salesforce CRM</li>
+  <li><b>Lab work:</b> Buffer synthesis, restriction enzyme digest, polymerase chain reaction (PCR), genomic DNA isolation, RNA isolation, gel electrophoresis (DNA, RNA), spectrophotometry, DNA barcoding, genotyping by sequencing (GBS), restriction site associated DNA sequencing (RAD-seq), single colony isolation (streaking), optical microscopy (inverted compound microscope)</li></ul>
 
 <p><h2>LANGUAGES</h2></p>
 
