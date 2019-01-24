@@ -2,7 +2,7 @@
   
 <p><h2>RESEARCH INTERESTS</h2></p>
 
-<p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of genomic data for application in the healthcare and food/nutrition industries.
+<p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of biological data for application in the healthcare and food/nutrition industries.
 </p>
 
 <p><h2>EDUCATION</h2></p>
