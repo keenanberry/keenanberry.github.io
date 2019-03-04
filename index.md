@@ -124,31 +124,27 @@ Latin: Proficient</p>
 
 <p><h2>REFERENCES</h2></p>
 
+<p><b>Tae-Hyuk (Ted) Ahn, Ph.D., Assistant Professor</b><br>
+  BioHPC Laboratory<br>
+  Department of Computer Science<br>
+  Saint Louis University<br>
+  (314) 977 - 3633, ted.ahn@slu.edu</p>
+
+<p><b>Zhenguo Lin, Ph.D., Assistant Professor</b><br>
+  Evolutionary Genomics Laboratory<br>
+  Department of Biology<br>
+  Saint Louis University<br>
+  (314) 977 - 9816, zhenguolin@slu.edu</p>
+
 <p><b>Blake Meyers, Ph.D., Principal Investigator</b><br>
 Small RNA Laboratory<br>
 Donald Danforth Plant Science Center<br>
 Division of Plant Sciences, University of Missouri – Columbia<br>
 (314) 587 - 1422, BMeyers@danforthcenter.org</p>
 
-<p><b>Douglas L. Crawford, Ph.D., Professor</b><br>
-Marine Genomics Laboratory<br>
-Department of Marine Biology and Ecology<br>
-University of Miami, Rosenstiel School of Marine and Atmospheric Science<br>
-(305) 421 - 4121, dcrawford@rsmas.miami.edu </p>
-
-<p><b>Marjorie F. Oleksiak, Ph.D., Associate Professor</b><br>
-Marine Genomics Laboratory<br>
-Department of Marine Biology and Ecology<br>
-University of Miami, Rosenstiel School of Marine and Atmospheric Science<br>
-(305) 421 - 4341, moleksiak@rsmas.miami.edu</p>
-
 <p><b>Michael Penney, Global Head of Technology</b><br>
 Coaches Training Institute (CTI), San Francisco Bay Area<br>
 (941) 374 – 0520, michaelbtw@gmail.com </p>
-
-<p><b>Patrick Doherty, founder and CEO</b><br>
-Saturday Capital, St. Louis, MO.<br>
-(636) 489 – 8522, Patrick.Doherty@SaturdayCapital.com </p>
 
 </html>
 
