@@ -91,7 +91,7 @@ Ecology, Evolution & Marine Biology Department <br>
 <p style ="margin-bottom:0;"><b>Web Content Engineer | May 2016 – Oct 2017</b><br>
   <em>Prepworks E-Learning Systems</em></p>
 <ul style="list-style-type:disc;margin-top:0;">
-  <li>Edited, approved, and published question items, remediation, interactive activities, and videos for SAT, ACT, Algebra, and Geometry courses to improve student comprehension and academic success.</li>
+  <li>Edited, approved, and published front-end question items, remediation, interactive activities, and videos for SAT, ACT, Algebra, and Geometry courses to improve student comprehension and academic success.</li>
   <li>Created and/or edited approximately 80% of full remediated questions for Prepworks’ Award Winning Adaptive Geometry Course.</li>
   <li>Directed a team of content developers and content digitizers to update and expand content found in Prepworks’ Award Winning Adaptive ACT and SAT courses.</li>
   </ul>	
