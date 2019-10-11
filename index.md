@@ -1,9 +1,32 @@
 <html>
   
-<p><h2>RESEARCH INTERESTS</h2></p>
+<p><h2>OBJECTIVE</h2></p>
 
-<p>Investigations of computational methods and the development of software technologies to advance the scientific understanding of biotechnological data for application in the healthcare and agricultural industries.
+<p>Scientific programmer with proven software development, machine learning, and communication skills. Seeking a full-time position as a software engineer/data scientist. 
 </p>
+
+<p><h2>PROFESSIONAL EXPERIENCE</h2></p>
+
+<p style ="margin-bottom:0;"><b>Computational Researcher | Aug 2018 – Present</b><br>
+  <em>Computer Science Department, Saint Louis University</em> | Aug 2018 – Present</p>
+<ul style="list-style-type:disc;margin-top:0;">
+  <li>Reduced whole-genome clustering time by approximately 60% with novel clustering method.</li>
+  <li>Contributed to the development of input/output functions for integration with various genomic file types. </li> 
+  <li>Optimized/refactored pre-existing software code to reduce redundancies.</li></ul>	
+
+<p style ="margin-bottom:0;"><b>Computational Researcher | Aug 2018 – Present</b><br>
+  <em>Computer Science Department, Saint Louis University</em></p>
+<ul style="list-style-type:disc;margin-top:0;">
+  <li>Reduced whole-genome clustering time by approximately 60% with novel clustering method.</li>
+  <li>Contributed to the development of input/output functions for integration with various genomic file types. </li> 
+  <li>Optimized/refactored pre-existing software code to reduce redundancies.</li></ul>	
+
+<p style ="margin-bottom:0;"><b>Web Content Engineer | May 2016 – Sep 2017</b><br>
+  <em>Prepworks E-Learning Systems</em></p>
+<ul style="list-style-type:disc;margin-top:0;">
+  <li>Wrote and published front-end content for SAT, ACT, Algebra, and Geometry courses.</li>
+  <li>Directed a team of content developers in expanding content found in ACT and SAT courses.</li>
+  </ul>	
 
 <p><h2>EDUCATION</h2></p>
 
@@ -28,34 +51,6 @@ Ecology, Evolution & Marine Biology Department <br>
   <li> GPA: 3.669</li>
   <li> Relevant courses: Object-oriented Programming in Java </li></ul>
 
-<p><h2>RESEARCH EXPERIENCE</h2></p>
-
-<p style="margin-bottom:0;"><b>BioHPC Laboratory | Aug 2018 – present</b><br>
-  <em>Computer Science Department, St. Louis University</em> </p> <ul style="list-style-type:disc;margin-top:0;">
-  <li>Currently working with Dr. Tae-Hyuk Ahn (Computer Science) and Dr. Zhenguo Lin (Biology) to develop an R software package to improve the analysis of CAGE-sequencing data; the goal of the development is to provide better transcription start site profiles from CAGE-seq datasets.</li>
-  <li>Responsible for writing new data analysis functions (e.g. peak calling, clustering, etc.) and for editing and adapting existing functions written by Dr. Lin's graduate student.</li>
-  <li>Initiating new app development on the DNAnexus Mosaic cloud platform for metagenomic strain profiling and detection.</li></ul>
-
-<p style="margin-bottom:0;"><b>Proulx Laboratory | Sep 2017 – Apr 2018</b><br>
-  <em>EEMB Department, University of California at Santa Barbara</em> </p>
-<ul style="list-style-type:disc;margin-top:0;">
-  <li>Focused on developing theoretical models to understand fitness and selection processes involved in evolution.</li>
-  <li>Assisted with microbiology procedures involved in the experimental evolution studies of the yeast species <i>Saccharomyces cerevisiae</i>.</li></ul>
-
-<p style="margin-bottom:0;"><b>Marine Genomics Laboratory | Jan 2016 – Aug 2016</b><br>
-  <em>Department of Marine Biology and Ecology, University of Miami</em> </p>
-<ul style="list-style-type:disc;margin-top:0;">
-  <li> Collaborated with Atlantic Oceanographic & Meteorological Laboratory of NOAA to investigate the roll of salinity fluctuations in causing selection by analyzing the genetic variation and connectivity among populations of rainwater killifish (<i>Lucania parva</i>) in Florida’s Biscayne Bay; evidence from investigations has the potential to justify the Comprehensive Everglades Restoration Plan, a government initiative spending $10.5 billion over 35 years to restore the Everglades’ natural drainage system. </li>
-<li> Investigated connectivity of over-fished populations of parrotfish species in the Bahama islands by determining the potential identity of larval DNA in the parrotfish genus Sparisoma through sequence alignment comparisons and phylogenetic analyses; research findings have the potential to enhance fishing regulations and management strategies in the Bahama islands. </li></ul>
-
-<p><h2>TEACHING EXPERIENCE</h2></p>
-
-<p style ="margin-bottom:0;"><b>Academic Tutor | Oct 2013 – Sep 2016</b><br>
-  <em>Prepworks Tutoring</em></p>
-  <ul style="list-style-type:disc;margin-top:0;">
-  <li>Taught students PSAT, SAT, ACT, Biology, Chemistry and all Mathematics classes in one-to-one and small group environments with average student improvements over 300 SAT points, 5 ACT points, and 2 letter grades. </li>
-  <li>Worked approximately 15 hours per week during my undergraduate studies. </li></ul>
-
 <p><h2>HONORS AND AWARDS</h2></p>
 
 <p style ="margin-bottom:0;"><b>Graduate Assistantship | Fall 2018 – Fall 2019</b></p>
@@ -79,44 +74,19 @@ Ecology, Evolution & Marine Biology Department <br>
   <li>An award-winning, experiential learning program available by invitation to incoming freshman students receiving a University of Miami merit/academic scholarship.</li>
   </ul>	
 
-<p><h2>PROFESSIONAL EXPERIENCE</h2></p>
-
-<p style ="margin-bottom:0;"><b>Bioinformatics Intern | Apr 2018 – Aug 2018</b><br>
-  <em>Meyers Laboratory, Donald Danforth Plant Science Center</em></p>
-<ul style="list-style-type:disc;margin-top:0;">
-  <li>Participated in a paid summer internship in Dr. Blake Meyers lab; the lab focuses on genome-scale studies of small RNAs and their targets in plants.</li>
-  <li>Analyzed sequence variation data from the 1001 Genomes Project to identify intraspecific microRNA variation and to investigate its effects on miRNA secondary structure and target-site complementarity in 1135 accessions of Arabidopsis; my research investigations found the presence of SNPs affects the stability of miRNA secondary structures and potentially inhibits the regulatory functions of miRNAs in this plant species. </li> 
-  <li>Developed bioinformatics pipeline to be used for similar miRNA analyses; specific plans to utilize pipeline to analyze data from the 3000 Rice Genomes Project.</li></ul>	
-
-<p style ="margin-bottom:0;"><b>Web Content Engineer | May 2016 – Oct 2017</b><br>
-  <em>Prepworks E-Learning Systems</em></p>
-<ul style="list-style-type:disc;margin-top:0;">
-  <li>Edited, approved, and published front-end question items, remediation, interactive activities, and videos for SAT, ACT, Algebra, and Geometry courses to improve student comprehension and academic success.</li>
-  <li>Created and/or edited approximately 80% of full remediated questions for Prepworks’ Award Winning Adaptive Geometry Course.</li>
-  <li>Directed a team of content developers and content digitizers to update and expand content found in Prepworks’ Award Winning Adaptive ACT and SAT courses.</li>
-  </ul>	
-
-<p><h2>CAMPUS INVOLVEMENT</h2></p>
-
-<p style ="margin-bottom:0;"><b>Water Polo Club | 2012 – 2016</b><br>
-  <em>University of Miami</em></p>
-  <ul style="list-style-type:disc;margin-top:0;">
-  <li>Team CAPTAIN during 2013 Florida State Championship season.</li>
-  <li>PRESIDENT of club during 2014 season.</li></ul>
-
-<p><b>Scuba Club | 2012 – 2016</b><br>
-  <em>University of Miami</em></p>
-
-<p><b>Alumnus of Pi Kappa Alpha Fraternity</b><br>				
-  <em>University of Miami Chapter</em></p>
-
-<p><h2>RELEVANT SKILLS</h2></p>
+<p><h2>TECHNICAL SKILLS</h2></p>
 
 <ul style="list-style-type:disc;">
   <li><b>Programming/markup language:</b> Python, R, Unix Shell, C++ (proficient), Java (proficient), HTML/CSS, LaTeX</li>
-  <li><b>Software:</b> GenomeTools, bedtools, ViennaRNA Package, Trimmomatic, FastQC, Burrows-Wheeler Aligner (BWA), Anaconda, RStudio, BLAST, Gephi, MEGA, Tassel, Arlequin, PGDSpider, Structure, PAUP, ArcGIS, Adobe Photoshop, Adobe Illustrator, Microsoft Office, Salesforce CRM</li></ul>
+  <li><b>Software:</b> GenomeTools, bedtools, ViennaRNA Package, Trimmomatic, FastQC, Burrows-Wheeler Aligner (BWA), Anaconda, RStudio, BLAST, Gephi, MEGA, Tassel, Arlequin, PGDSpider, Structure, PAUP, ArcGIS, Adobe Photoshop, Adobe Illustrator, Microsoft Office, Salesforce CRM</li>
+  <li><b>Cloud Computing:</b> Microsoft Azure</li>
+  <li><b>Machine Learning Libraries:</b> Scikit-Learn, Keras, TensorFlow</li></ul>
 
 <p><h2>REFERENCES</h2></p>
+
+<p><b>Greg Schuman, Pharm. D., Associate Consultant</b><br>
+  Kantar Health Division<br>
+  (314) 977 - 3633, ted.ahn@slu.edu</p>
 
 <p><b>Tae-Hyuk (Ted) Ahn, Ph.D., Assistant Professor</b><br>
   BioHPC Laboratory<br>
