@@ -59,7 +59,7 @@
   
 <p style ="margin-bottom:0;"><b>IGERT Traineeship	(2017 – 2018)</b></p>
 <ul style="list-style-type:disc;margin-top:0;">
-  <li>AInterdisciplinary graduate traineeship program in Network Science and Big Data funded by the NSF and UCSB Computer Science Department.</li></ul>
+  <li>Interdisciplinary graduate traineeship program in Network Science and Big Data funded by the NSF and UCSB Computer Science Department.</li></ul>
 
 <p><h2>TECHNICAL SKILLS</h2></p>
 
