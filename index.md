@@ -80,11 +80,6 @@
   Saint Louis University<br>
   (314) 977 - 3633, ted.ahn@slu.edu</p>
 
-<p><b>Zhenguo Lin, Ph.D., Assistant Professor</b><br>
-  Department of Biology<br>
-  Saint Louis University<br>
-  (314) 977 - 9816, zhenguolin@slu.edu</p>
-
 <p><b>Blake Meyers, Ph.D., Principal Investigator</b><br>
 Donald Danforth Plant Science Center<br>
 Division of Plant Sciences, University of Missouri – Columbia<br>
