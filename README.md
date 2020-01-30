@@ -1,2 +1,2 @@
 # keenanberry.github.io
-A web page display for my CV
+A web page display for my resume
