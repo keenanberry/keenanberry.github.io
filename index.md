@@ -1,18 +1,18 @@
 <html>
   
-<p><h2>OBJECTIVE</h2></p>
+<p><h2>SUMMARY</h2></p>
 
-<p>Scientific programmer with proven software development, machine learning, and communication skills. Seeking a full-time position as a software engineer/data scientist. 
+<p>Technology consultant with proven communication, teaching, and leadership skills. Passionate about leveraging the latest technologies to deliver optimized solutions for clients. Skilled in database architecture and application development with a focus on big data and cloud solutions. Built full-stack recommendation app to improve data cleaning processes while working as an analyst at a healthcare research firm. 
 </p>
 
 <p><h2>PROFESSIONAL EXPERIENCE</h2></p>
 
-<p style ="margin-bottom:0;"><b>Computational Researcher</b><br>
-  <em>Computer Science Department, Saint Louis University</em> | Aug 2018 – Present</p>
+<p style ="margin-bottom:0;"><b>Associative Consultant</b><br>
+  <em>Daugherty Business Solutions</em> | Jan 2020 – Present</p>
 <ul style="list-style-type:disc;margin-top:0;">
-  <li>Reduced whole-genome clustering time by approximately 60% with novel clustering method.</li>
-  <li>Contributed to the development of input/output functions for integration with various genomic file types. </li> 
-  <li>Optimized/refactored pre-existing software code to reduce redundancies.</li></ul>	
+  <li>Responsible for engaging in various data engineering and software development projects for Daugherty and our clients.</li>
+  <li>Projects include designing and implementing application storage solutions, developing input/output data manipulation logic, and building data pipelines. </li> 
+  <li>Focused on big data and cloud solutions.</li></ul>	
 
 <p style ="margin-bottom:0;"><b>Oncology Analyst, Intern</b><br>
   <em>Kantar Health</em> | May 2019 – Aug 2019</p>
@@ -70,6 +70,10 @@
   <li><b>Machine Learning Libraries:</b> Scikit-Learn, Keras, TensorFlow (prior experience)</li></ul>
 
 <p><h2>REFERENCES</h2></p>
+
+<p><b>Adam Doyle, Senior Consultant</b><br>
+  Daugherty Business Solutions<br>
+  adam.doyle@daugherty.com</p>
 
 <p><b>Greg Schuman, Pharm. D., Associate Consultant</b><br>
   Kantar Health Division<br>
