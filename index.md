@@ -64,7 +64,7 @@
 <p><h2>TECHNICAL SKILLS</h2></p>
 
 <ul style="list-style-type:disc;">
-  <li><b>Programming languages:</b> Python, R, Unix/Linux Shell, SQL, JavaScript, Scala (proficient), C++ (proficient), Java (prior experience)</li>
+  <li><b>Programming languages:</b> Python, Unix/Linux Shell, SQL, JavaScript, Scala (proficient), C++ (proficient), Java (prior experience), R</li>
   <li><b>Software/Tools:</b> Docker, Git, Jupyter Notebook, Visual Studio, IntelliJ IDEA, RStudio, React, TensorFlow, Keras, Kafka, Apache Spark, Apache Airflow, Tableau</li>
   <li><b>Cloud:</b> AWS, Microsoft Azure</li>
   <li><b>Databases:</b> PostgreSQL, MS SQL Server, MySQL, Oracle, MariaDB, SQLite, MongoDB</li></ul>
