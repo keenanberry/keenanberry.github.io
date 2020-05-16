@@ -38,7 +38,7 @@
 <p><h2>EDUCATION</h2></p>
 
 <p style="margin-bottom:0;"><b>M.S. Bioinformatics & Computational Biology</b><br>
-  <em>Saint Louis University</em> | Aug 2018 – Present</p>
+  <em>Saint Louis University</em> | Aug 2018 – Dec 2019</p>
   <ul style="list-style-type:disc;margin-top:0;">
   <li> GPA: 4.0 </li>
   <li> Relevant courses: Software Development, Machine Learning, Unix Tools, Databases, High Performance Computing, Algorithms, Data Structures in C++, Genomics, Bioinformatics</li></ul>
@@ -64,10 +64,10 @@
 <p><h2>TECHNICAL SKILLS</h2></p>
 
 <ul style="list-style-type:disc;">
-  <li><b>Programming/markup language:</b> Python, R, Unix/Linux Shell, SQL, HTML/CSS, JavaScript (proficient), C++ (proficient), Java (prior experience)</li>
-  <li><b>Software:</b> Jupyter Notebook, RStudio, Git, Anaconda, Visual Studio, Docker, Microsoft SQL Server, Tableau (proficient), Alteryx (prior experience)</li>
-  <li><b>Cloud Computing:</b> Microsoft Azure</li>
-  <li><b>Machine Learning Libraries:</b> Scikit-Learn, Keras, TensorFlow (prior experience)</li></ul>
+  <li><b>Programming languages:</b> Python, R, Unix/Linux Shell, SQL, JavaScript, Scala (proficient), C++ (proficient), Java (prior experience)</li>
+  <li><b>Software/Tools:</b> Docker, Git, Jupyter Notebook, Visual Studio, IntelliJ IDEA, RStudio, React, TensorFlow, Keras, Kafka, Apache Spark, Apache Airflow, Tableau</li>
+  <li><b>Cloud:</b> AWS, Microsoft Azure</li>
+  <li><b>Databases:</b> PostgreSQL, MS SQL Server, MySQL, Oracle, MariaDB, SQLite, MongoDB</li></ul>
 
 <p><h2>REFERENCES</h2></p>
 
